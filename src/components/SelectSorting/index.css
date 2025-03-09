@@ -1,0 +1,6 @@
+.selectType {
+  width: 400px;
+  .labelForSelect {
+    margin-right: 5px;
+  }
+}
